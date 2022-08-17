@@ -21,7 +21,7 @@ timezone: Europe/Madrid
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: ib4rz                          # the main title
+title: IP4sec                          # the main title
 
 tagline: Hack The Box write-ups   # it will display as the sub-title
 
@@ -29,7 +29,7 @@ description: >-                        # used by seo meta and the atom feed
   ib4rz blog, Computer Science Engineer, Cyber Security Analyst
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://ib4rz.github.io'
+url: 'https://IP4sec .github.io'
 
 github:
   username: ib4rz             # change to your github username
